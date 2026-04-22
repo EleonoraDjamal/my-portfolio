@@ -35,7 +35,7 @@ My Portfolio Project
 
 8. Replied to the email with the link to my README.md file on GitHub
 
-#Issues encountered and how it is solved
+# Issues encountered and solution
 1. This is my first time using the Cursor IDE, so I had to familiarize myself with it using AI tools and YouTube tutorials. Since it is actually similar to Visual Studio Code, this made the learning process somewhat easier.
 
 2. I do not frequently use GitHub, so I am currently working on improving my understanding by revisiting and practicing its usage.
